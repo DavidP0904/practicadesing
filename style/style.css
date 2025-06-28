@@ -1,0 +1,19 @@
+body {
+    overflow-x: hidden;
+}
+.sidebar {
+    height: 100vh;
+    background-color: #f8f9fa;
+    padding-top: 1rem;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card {
+    width: 300px;
+    margin: 10px;
+    border: 1px solid #dee2e6;
+    padding: 10px;
+}
